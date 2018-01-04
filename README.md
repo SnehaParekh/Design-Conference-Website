@@ -1,0 +1,2 @@
+# Design-Conference-Website
+Websites are often designed with the prime aim of making them look aesthetically pleasing to the eyes. Here the focus was not only on visual design but also on providing intuitive navigation, color-management, improving user experience and interaction by using right layouts and typography. I had made this site while learning how to code using HTML,CSS from my all-time favorite blogger Shay Howe.
